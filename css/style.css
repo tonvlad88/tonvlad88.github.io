@@ -595,9 +595,6 @@ header {
 
 .home-content h1 {
   text-transform: uppercase;
-  background-color: rgba(0, 255, 67, 0.12);
-  border-radius: 5px;
-  padding: 10px;
 }
 .home-content button {
   margin-top: 20px;
